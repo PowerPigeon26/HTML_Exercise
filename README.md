@@ -9,14 +9,14 @@ slug: "/html-intro-exercise"
 
 Practice using HTML tags to structure a content on web pages.
 
-## Exercise 1
+## Exercise 1 -----Done-----
 
 Steps are to be completed under the div with `id="exercise1"`
 
 1. Create a **heading 1** element that contains your name between opening and closing tags
 2. Create a **paragraph** element that contains a bio about yourself
 
-## Exercise 2
+## Exercise 2 -----Done-----
 
 Steps are to be completed under the div with `id="exercise2"`
 
@@ -28,7 +28,7 @@ Steps are to be completed under the div with `id="exercise2"`
    - The second **anchor** element should link to the _TrueCoders homepage_
    - The third **anchor** element should link to your _most visited website_
 
-## Exercise 3
+## Exercise 3 -----Done-----
 
 Steps are to be completed under the div with `id="exercise3"`
 
@@ -36,7 +36,7 @@ Steps are to be completed under the div with `id="exercise3"`
 2. Add an **src** attribute with a _relative path_ value that points to the `./images/example.png` file
 3. Add an **alt** attribute with a _text description_ value of the image
 
-## Exercise 4
+## Exercise 4 -----Done-----
 
 Steps are to be completed under the div with `id="exercise4"`
 
@@ -52,13 +52,13 @@ Steps are to be completed under the div with `id="exercise5"`
 
 1. Edit the blog post so that more _semantically meaningful_ elements are used instead of generic **division** containers.
    - You will need to use
-     - **one main element**
-     - **three section elements**
-     - **one article element**
-     - **one header element**
-     - **two nav element**
-     - **two unordered list element**
-     - **five list item elements**
-     - **five anchor elements**
-     - **one footer element**
-   - To be completed, you should have no more than **three division elements** and **zero span elements** (not including the div with `id="exercise5"`)
+     - **one main element** -----Done-----
+     - **three section elements** -----Done-----
+     - **one article element** -----Done-----
+     - **one header element** -----Done-----
+     - **two nav element** -----Done-----
+     - **two unordered list element** -----Done-----
+     - **five list item elements** -----Done-----
+     - **five anchor elements**-----Done-----
+     - **one footer element**-----Done-----
+   - To be completed, you should have no more than **three division elements** and **zero span elements** (not including the div with `id="exercise5"`)-----Done-----
